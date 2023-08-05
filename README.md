@@ -1,4 +1,4 @@
-Chat-PDF
+**Chat-PDF**__
 
 **Project description**: customizeed bot for your own pdf files
 
