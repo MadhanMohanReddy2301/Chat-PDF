@@ -22,22 +22,22 @@
 
 ## Installation
 
-1. Clone the repository:
+_1. Clone the repository:_
 
    git clone https://github.com/MadhanMohanReddy2301/Chat-PDF.git
 
-Navigate to the project directory:
+_Navigate to the project directory:_
     cd your-repo-name
 
-Install the required Python packages using pip:
+_Install the required Python packages using pip:_
     pip install pypdf python-dotenv transformers einops accelerate langchain bitsandbytes sentence_transformers llama-index
 
-Usage:
+_Usage:_
     Prepare your PDF documents and place them in the specified directory. (Update /content/Data/ with the actual path to your PDF files.)
 
-Update the system_prompt, query_wrapper_prompt, and other settings in the code as needed.
+    Update the system_prompt, query_wrapper_prompt, and other settings in the code as needed.
 
-Run the script:
+_Run the script:_
     LLAMA-2-7B-chat-with-PDF.py
 
     The script will perform Q&A tasks based on the provided prompts and context. The responses will be printed to the console.
