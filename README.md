@@ -1,14 +1,14 @@
 Chat-PDF
 
-Project description: customizeed bot for your own pdf files
+**Project description**: customizeed bot for your own pdf files
 
-NOTE:- The project has done in google colab.
+**NOTE**:- The project has done in google colab.
 
-Requirements to Run this project:
+**Requirements to Run this project:**
     --> SYSTEM RAM: 12 GB (min)
     --> GPU       : 12 GB (min)
 
-Tip:
+**Tip:**
     Use free version of google colab noteboot to run this project.
     It will save you a lot of time!
     free vesion of colab provides 12.7GB RAM and 15 GB of GPu and 80 GB of storage
