@@ -3,11 +3,10 @@
 ## Project Overview
 
 ### Project Description
-
-```markdown
-This project utilizes Llama Index and Hugging Face models for efficient PDF document indexing and querying.
-```
-The goal is to create a system that can index PDF documents and perform accurate queries based on user input.
+    ```markdown
+    This project utilizes Llama Index and Hugging Face models for efficient PDF document indexing and querying.
+    ```
+    - The goal is to create a system that can index PDF documents and perform accurate queries based on user input.
 
 ## Installation
 # Prerequisites
